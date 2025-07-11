@@ -62,7 +62,7 @@ nav ul li{
   max-width: 1440px;
     height: 698px;
     
-    background-image:url('/Assets/Hero-bg.png');
+    background-image:url('Assets/Hero-bg.png');
     background-position: top;
 }
 .action-section{ 
